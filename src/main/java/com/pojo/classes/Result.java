@@ -2,6 +2,9 @@ package com.pojo.classes;
 
 import org.codehaus.jackson.annotate.JsonIgnore;
 
+/**
+@author creater
+*/
 public class Result {
 
 	private String formatted_address;
